@@ -1,0 +1,7 @@
+﻿  CLab2(10).c
+C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\CLab2(10)\CLab2(10).c(17,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\CLab2(10)\CLab2(10).c(20,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\CLab2(10)\CLab2(10).c(23,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\CLab2(10)\CLab2(10).c(13,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\CLab2(10)\CLab2(10).c(38,15): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  CLab2(10).vcxproj -> C:\Users\RedmiBook\source\repos\Clabs\CLab2(10)\Debug\CLab2(10).exe

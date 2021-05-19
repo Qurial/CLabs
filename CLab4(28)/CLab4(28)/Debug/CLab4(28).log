@@ -1,0 +1,5 @@
+﻿  CLab4(28).c
+C:\Users\RedmiBook\source\repos\Clabs\CLab4(28)\CLab4(28)\CLab4(28).c(9,17): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\RedmiBook\source\repos\Clabs\CLab4(28)\CLab4(28)\CLab4(28).c(9,45): warning C4013: strcat: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\RedmiBook\source\repos\Clabs\CLab4(28)\CLab4(28)\CLab4(28).c(31,1): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+  CLab4(28).vcxproj -> C:\Users\RedmiBook\source\repos\Clabs\CLab4(28)\Debug\CLab4(28).exe
