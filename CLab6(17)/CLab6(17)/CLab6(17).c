@@ -37,28 +37,9 @@ struct node* insertRight(struct node* root, int value)
 	return root->right;
 }
 
-/*struct node* addBalanced(struct node* root, int value)
-{
-	if (root == NULL)
-	{
-		root = createNode(value);
-		return root;
-	}
-	
-	else if (root->item != NULL && value > root->item)
-	{
-		addBalanced(root->right, value);
-	}
-	else if (root->item != NULL && value < root->item)
-	{
-		addBalanced(root->left, value);
-	}
-}*/
 struct node* insert(struct node* node, int value) {
-	// Return a new node if the tree is empty
 	if (node == NULL) return createNode(value);
 
-	// Traverse to the right place and insert the node
 	if (value < node->item)
 		node->left = insert(node->left, value);
 	else if (value > node->item)
@@ -69,7 +50,6 @@ struct node* insert(struct node* node, int value) {
 
 void balanceTree(struct node* root, struct node* balancedRoot)
 {
-	//balancedRoot = createNode(root->item);
 	if (root == NULL) return;
 	balanceTree(root->left, balancedRoot);
 	insert(balancedRoot, root->item);
