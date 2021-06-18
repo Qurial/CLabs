@@ -1,0 +1,4 @@
+﻿  CLab7(28).c
+C:\Users\RedmiBook\source\repos\Clabs\CLab7(28)\CLab7(28)\CLab7(28).c(13,8): warning C4013: strcat: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\RedmiBook\source\repos\Clabs\CLab7(28)\CLab7(28)\CLab7(28).c(88,7): warning C4101: path: неиспользованная локальная переменная
+C:\Users\RedmiBook\source\repos\Clabs\CLab7(28)\CLab7(28)\CLab7(28).c(100): error C4700: использована неинициализированная локальная переменная "fTemp"
