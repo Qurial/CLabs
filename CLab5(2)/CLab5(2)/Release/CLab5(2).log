@@ -1,0 +1,4 @@
+﻿  CLab5(2).c
+C:\Users\RedmiBook\source\repos\Clabs\CLab5(2)\CLab5(2)\CLab5(2).c(21,11): warning C4013: AddDigit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\RedmiBook\source\repos\Clabs\CLab5(2)\CLab5(2)\CLab5(2).c(25,6): error C2371: AddDigit: переопределение; различные базовые типы
+C:\Users\RedmiBook\source\repos\Clabs\CLab5(2)\CLab5(2)\CLab5(2).c(43,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
